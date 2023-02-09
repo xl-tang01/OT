@@ -22,5 +22,5 @@ $$\textbf{Monge's Formulation}$$
 ### 1.2 History
 
 OT problem was first introduced by Gaspard Monge in 1781, which intends to use a pile of stones to build a military castle in a most efficient way. Its original formulation is written as
-$\min_{T_{\#}\mathbb P=\mathbb Q}\int_{\mathcal X}c(x,T(x))d\mathbb P(x)$
+$\min_{T_{/#}\mathbb P=\mathbb Q}\int_{\mathcal X}c(x,T(x))d\mathbb P(x)$
 
